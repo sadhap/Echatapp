@@ -63,7 +63,7 @@ export default function Login(){
 
   };
   const testCredentials = () =>{
-    alert("Username: user1 - Password: 12345678")
+    alert("Username: user1 - Password: 12345678\nUsername: user2 - Password: 12345678")
   }
 
   return (
